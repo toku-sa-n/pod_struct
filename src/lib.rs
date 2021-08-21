@@ -1,3 +1,5 @@
+//! Derive macros for generating methods for POD types.
+
 #[cfg(test)]
 mod tests {
     #[test]
